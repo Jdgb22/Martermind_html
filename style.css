@@ -1,0 +1,24 @@
+/* css en todos los elementos*/
+body{
+    background-color: grey;
+    font: 200 14px "poppins", sans-serif;
+}
+/*Css en todas las ids y clases */
+.seleccion{
+    padding: 10px 100px 10px 100px;
+    color: white;
+}
+#inicio{
+    border-top: aquamarine solid 1px;
+}
+#firmas{
+    font: 250 14px "Pacifico", corsiva, sans-serif;
+    border-top: aquamarine solid 1px;
+}
+#palo{
+    font: 200 20px "poppins", sans-serif;
+}
+#contacto{
+    border-top: aquamarine solid 1px;
+}
+
